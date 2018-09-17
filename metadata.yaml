@@ -1,0 +1,54 @@
+_repo: Le-diable-amoureux_52611
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Nerval, Gérard de
+    aliases:
+    - Beuglant
+    - Cadet-Roussel
+    - Puycousin, Edouard de
+    - Puycousin, Édouard de
+    - Nerval, Gerard de
+    - Labrunie, Gérard
+    birthdate: 1808
+    deathdate: 1855
+    gutenberg_agent_id: '6559'
+    url: http://www.gutenberg.org/2009/agents/6559
+    wikipedia: http://en.wikipedia.org/wiki/Gérard_de_Nerval
+  illustrator:
+    agent_name: Beaumont, Edouard de
+    aliases:
+    - Beaumont, Charles-François-Edouard de
+    - Beaumont, Charles-Edouard de
+    - Beaumont, Charles-Francois-Edouard de
+    - Beaumont, Édouard de
+    - Beaumont, E. de (Edouard de)
+    - De Beaumont, Edouard de
+    birthdate: 1821
+    deathdate: 1888
+    gutenberg_agent_id: '46962'
+    url: http://www.gutenberg.org/2009/agents/46962
+creator:
+  author:
+    agent_name: Cazotte, Jacques
+    birthdate: 1719
+    deathdate: 1792
+    gutenberg_agent_id: '25789'
+    url: http://www.gutenberg.org/2009/agents/25789
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2016-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52611'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 18th century'
+- !lcsh 'Devil -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Le diable amoureux
+url: http://www.gutenberg.org/ebooks/52611
